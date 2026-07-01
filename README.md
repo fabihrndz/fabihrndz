@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL · Python · Power BI · Tableau · Git & OOP
 
-[![LinkedIn](https://www.linkedin.com/in/fabiola-hern%C3%A1ndez-lorenzo-6b7554162/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiola--Hernández--Lorenzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiola-hern%C3%A1ndez-lorenzo-6b7554162/)
 
 ## Sobre mí
 Analista de datos con un perfil híbrido y versátil que combina una sólida base en administración, contabilidad y gestión operativa con competencias técnicas en análisis de datos. Experiencia en atención al cliente, control de inventarios y análisis de KPIs comerciales y financieros. Enfoque práctico orientado a la organización de la información y la creación de informes visuales e insights accionables que impulsan la eficiencia operativa y facilitan la toma de decisiones..
